@@ -1,4 +1,4 @@
-# 🚀🛰️ Kibo RPC Mission Code – NeighborhoodCat (RPC6010)
+# 🚀🛰️ Kibo RPC – NeighborhoodCat (RPC6010)
 
 This repository contains our complete solution for the **6th Kibo Robot Programming Challenge (Kibo RPC)**, developed under the team name **NeighborhoodCat**.  
 Our code integrates **computer vision, navigation, and AI detection** to autonomously complete the mission onboard JAXA’s **Astrobee robot** on the ISS.
