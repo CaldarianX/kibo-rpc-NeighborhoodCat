@@ -77,6 +77,5 @@ app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/
 │
 ├─ Log/
 │  └─ Log.java                    # Simple logger wrapper
-└─ .DS_Store                      # macOS metadata (ignore)
 </pre>
 </details>
