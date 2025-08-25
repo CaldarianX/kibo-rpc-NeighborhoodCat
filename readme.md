@@ -17,9 +17,8 @@ Our code integrates **computer vision, navigation, and AI detection** to autonom
 ---
 
 ## 📂 Project Structure
-app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/
 <details open>
-  <summary><b>Project Structure</b></summary>
+  <summary><b>Project Structure (app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/)</b></summary>
 
 <pre>
 app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/
