@@ -18,6 +18,10 @@ Our code integrates **computer vision, navigation, and AI detection** to autonom
 
 ## 📂 Project Structure
 app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/
+<details>
+  <summary><b>Project Structure</b></summary>
+
+<pre>
 app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/
 ├─ MainActivity.java              # Minimal Android activity entrypoint
 ├─ YourService.java               # Core mission logic (extends KiboRpcService)
@@ -75,3 +79,5 @@ app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/
 ├─ Log/
 │  └─ Log.java                    # Simple logger wrapper
 └─ .DS_Store                      # macOS metadata (ignore)
+</pre>
+</details>
